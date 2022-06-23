@@ -1,7 +1,7 @@
 function getBotResponse(input) {
     //rock paper scissors
-    if (input == "rock") {
-        return "paper";
+    if (input == "departments") {
+        return "Computer Science and Enginering \n Information Technology \n Electrical Engineering \n Civil Engineering";
     } else if (input == "paper") {
         return "scissors";
     } else if (input == "scissors") {
